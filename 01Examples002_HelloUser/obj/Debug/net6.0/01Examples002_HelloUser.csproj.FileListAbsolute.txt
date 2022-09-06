@@ -1,0 +1,15 @@
+E:\Обучение GB програмирование\Курс 3 Знакомство с языками программирования (лекции)\Лекция 1\01Examples\01Examples002_HelloUser\bin\Debug\net6.0\01Examples002_HelloUser.exe
+E:\Обучение GB програмирование\Курс 3 Знакомство с языками программирования (лекции)\Лекция 1\01Examples\01Examples002_HelloUser\bin\Debug\net6.0\01Examples002_HelloUser.deps.json
+E:\Обучение GB програмирование\Курс 3 Знакомство с языками программирования (лекции)\Лекция 1\01Examples\01Examples002_HelloUser\bin\Debug\net6.0\01Examples002_HelloUser.runtimeconfig.json
+E:\Обучение GB програмирование\Курс 3 Знакомство с языками программирования (лекции)\Лекция 1\01Examples\01Examples002_HelloUser\bin\Debug\net6.0\01Examples002_HelloUser.dll
+E:\Обучение GB програмирование\Курс 3 Знакомство с языками программирования (лекции)\Лекция 1\01Examples\01Examples002_HelloUser\bin\Debug\net6.0\01Examples002_HelloUser.pdb
+E:\Обучение GB програмирование\Курс 3 Знакомство с языками программирования (лекции)\Лекция 1\01Examples\01Examples002_HelloUser\obj\Debug\net6.0\01Examples002_HelloUser.csproj.AssemblyReference.cache
+E:\Обучение GB програмирование\Курс 3 Знакомство с языками программирования (лекции)\Лекция 1\01Examples\01Examples002_HelloUser\obj\Debug\net6.0\01Examples002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение GB програмирование\Курс 3 Знакомство с языками программирования (лекции)\Лекция 1\01Examples\01Examples002_HelloUser\obj\Debug\net6.0\01Examples002_HelloUser.AssemblyInfoInputs.cache
+E:\Обучение GB програмирование\Курс 3 Знакомство с языками программирования (лекции)\Лекция 1\01Examples\01Examples002_HelloUser\obj\Debug\net6.0\01Examples002_HelloUser.AssemblyInfo.cs
+E:\Обучение GB програмирование\Курс 3 Знакомство с языками программирования (лекции)\Лекция 1\01Examples\01Examples002_HelloUser\obj\Debug\net6.0\01Examples002_HelloUser.csproj.CoreCompileInputs.cache
+E:\Обучение GB програмирование\Курс 3 Знакомство с языками программирования (лекции)\Лекция 1\01Examples\01Examples002_HelloUser\obj\Debug\net6.0\01Examples002_HelloUser.dll
+E:\Обучение GB програмирование\Курс 3 Знакомство с языками программирования (лекции)\Лекция 1\01Examples\01Examples002_HelloUser\obj\Debug\net6.0\refint\01Examples002_HelloUser.dll
+E:\Обучение GB програмирование\Курс 3 Знакомство с языками программирования (лекции)\Лекция 1\01Examples\01Examples002_HelloUser\obj\Debug\net6.0\01Examples002_HelloUser.pdb
+E:\Обучение GB програмирование\Курс 3 Знакомство с языками программирования (лекции)\Лекция 1\01Examples\01Examples002_HelloUser\obj\Debug\net6.0\01Examples002_HelloUser.genruntimeconfig.cache
+E:\Обучение GB програмирование\Курс 3 Знакомство с языками программирования (лекции)\Лекция 1\01Examples\01Examples002_HelloUser\obj\Debug\net6.0\ref\01Examples002_HelloUser.dll
